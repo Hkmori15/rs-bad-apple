@@ -1,0 +1,11 @@
+[package]
+name = "rs-bad-apple"
+version = "0.1.0"
+authors = ["Hkmori15"]
+description = "Bad Apple but it's Rust 🍎"
+repository = "https://github.com/Hkmori15/rs-bad-apple"
+edition = "2021"
+
+[dependencies]
+image = "0.25.2"
+termion = "4.0.2"
