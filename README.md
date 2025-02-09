@@ -1,6 +1,6 @@
 ## Bad Apple but it's Rust 🍎🦀
 
-Animation with song written in Rust using ffmpeg and crates termion.
+Animation with song written in Rust using ffmpeg and crates crossterm.
 
 ## Usage 📜:
 
